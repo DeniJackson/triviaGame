@@ -1,0 +1,62 @@
+body{
+    background: #0043B2;
+}
+
+.heading {
+    font-size: 5em;
+}
+
+.main {
+    background: #2E7CFF;
+}
+
+.pokemonImage {
+    height: 250px;
+    width: 350px;
+    margin:auto;
+}
+
+.hide{
+    display: none;
+}
+
+.block {
+    display:block;    
+}
+.getStarted {
+    margin: auto;
+    height: 50px;
+    width: 200px;
+}
+.vulpix
+{
+    background-image: url('../images/vulpix.png')
+}
+.vulpix2 {
+    background-image: url('../images/vulpix2.png')
+}
+
+.shaymin {
+    background-image: url('../images/shaymin.png')
+}
+
+.shaymin2 {
+    background-image: url('../images/shaymin2.jpg')
+}
+
+li {
+    background:white;
+    font-size: 2em;
+    border: solid 1px black;
+    padding: 10px;
+
+}
+
+li:hover {
+    background:black;
+    color:white;    
+}
+
+.correct {
+
+}
