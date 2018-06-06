@@ -291,10 +291,11 @@ function fifthPokemon(){
                 $('.question').text("Correct!");
                 $('ol').toggleClass('hide');
                 clearInterval(counterTimer);
-                
+                correct++;
     
             }else{
                 wrong();
+                incorrect++;
                 
             }
             
