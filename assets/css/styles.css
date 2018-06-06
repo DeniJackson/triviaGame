@@ -11,8 +11,6 @@ body{
 }
 
 .pokemonImage {
-    height: 250px;
-    width: 350px;
     margin:auto;
 }
 
@@ -23,27 +21,70 @@ body{
 .block {
     display:block;    
 }
-.getStarted {
+.getStarted,
+.reset {
     margin: auto;
     height: 50px;
     width: 200px;
 }
 .vulpix
 {
-    background-image: url('../images/vulpix.png')
+    background-image: url('../images/vulpix.png');
+    height: 300px;
+    width:385px;
 }
 .vulpix2 {
-    background-image: url('../images/vulpix2.png')
+    background-image: url('../images/vulpix2.png');
+    height: 300px;
+    width:385px;
 }
 
 .shaymin {
-    background-image: url('../images/shaymin.png')
+    background-image: url('../images/shaymin.png');
+    height:300px;
+    width:300px;
 }
 
 .shaymin2 {
-    background-image: url('../images/shaymin2.jpg')
+    background-image: url('../images/shaymin2.jpg');
+    height:300px;
+    width:350px;
 }
 
+.squirtle{
+    background-image: url('../images/squirtle.jpg');
+    height:300px;
+    width:275px;
+}
+
+.squirtle2 {
+    background-image: url('../images/squirtle2.jpg');
+    height:315px;
+    width:275px;
+}
+
+.butterfree{
+    background-image: url('../images/butterfree.jpg');
+    height:300px;
+    width:325px;
+}
+
+.butterfree2{
+    background-image: url('../images/butterfree2.jpg');
+    height:300px;
+    width:325px;
+}
+
+.venonat{
+    background-image: url('../images/venonat.jpg');
+    height: 300px;
+    width: 300px;
+}
+.venonat2{
+    background-image: url('../images/venonat2.png');
+    height: 350px;
+    width: 300px;
+}
 li {
     background:white;
     font-size: 2em;
